@@ -1,4 +1,4 @@
-+ students_1 = int(input())
-+ students_2 = int(input())
-+ students_3 = int(input())
-+ print(students_1 // 2 + students_1 % 2 + students_2 // 2 + students_2 % 2 + students_3 // 2 + student_3 % 2)
+students_1 = int(input())
+students_2 = int(input())
+students_3 = int(input())
+print(students_1 // 2 + students_1 % 2 + students_2 // 2 + students_2 % 2 + students_3 // 2 + student_3 % 2)
